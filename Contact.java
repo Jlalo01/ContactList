@@ -1,5 +1,3 @@
-package JoeyLalo_01;
-
 public class Contact {
 	static int count = 0;
 	int id;
